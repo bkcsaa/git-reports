@@ -84,7 +84,7 @@ end
 
 
 # days for time window
-days = 90
+days = 360 
 
 # Get the current time
 # Using Time class seconds for the date window
